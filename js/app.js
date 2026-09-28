@@ -85,7 +85,7 @@ const UNESCO_SITES = [
       lat: 30.328,
       lon: 35.444,
       description: 'Kızıl kumtaşı kayalıklara oyulmuş El-Hazne (Hazine) tapınağı ve Nabati krallığının çöl su kanalları harikası.',
-      image: 'https://images.unsplash.com/photo-1579606032822-04e43cf52243?w=600&auto=format&fit=crop&q=80'
+      image: 'https://images.unsplash.com/photo-1771692675339-12fa69ed0a59?w=600&auto=format&fit=crop&q=80'
     },
     {
       id: 'site_colosseum',
