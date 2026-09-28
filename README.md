@@ -9,7 +9,7 @@ Dünya mirası listesindeki alanları etkileşimli harita ile keşfedin.
 
 ## 🚀 Hızlı Başlangıç
 1. Bu repoyu klonlayın.
-2.  dosyasını tarayıcıda açın.
+2. `index.html` dosyasını tarayıcıda açın.
 
 
 
@@ -17,7 +17,7 @@ Dünya mirası listesindeki alanları etkileşimli harita ile keşfedin.
 - **Styling:** Tailwind CSS
 - **Design System:** Mistral AI Design System
 - **Storage:** Browser LocalStorage API
-- **API Source:** UNESCO World Heritage API
+- **API Source:** UNESCO Dünya Mirası Listesi — https://whc.unesco.org/en/list/ (12 seçkin alanın verileri uygulamaya gömülüdür, canlı API çağrısı yapılmaz) • Harita: Leaflet + OpenStreetMap • Görseller: Unsplash
 
 ## 🏆 Krediler & Açık Kaynak Teşekkürleri
 - **[OpenClaw](https://github.com/openclaw/openclaw):** Proje mimarisi ve otonom deployment.
@@ -29,3 +29,10 @@ MIT Lisansı altında açık kaynak olarak paylaşılmıştır.
 
 ---
 Daha fazla açık kaynak mikro uygulama için [GitHub profilimi](https://github.com/melihkarasu) ziyaret edebilirsiniz.
+
+
+---
+
+## 🧩 Proje Hakkında
+
+Bu uygulama, [VibeCodedApps](https://github.com/melihkarasu/VibeCodedApps) mikro uygulama koleksiyonunun bir parçası olarak üretilmiş açık kaynak standalone sürümdür.
